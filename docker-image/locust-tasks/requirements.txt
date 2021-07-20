@@ -1,4 +1,4 @@
-ppdirs==1.4.4
+ppdirs==0.1.0
 bidict==0.21.2
 certifi==2020.6.20
 chardet==3.0.4
